@@ -1,0 +1,139 @@
+body { background-color: rgba(187, 180, 180, 0.815);}
+
+.main{
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    background-color: black;
+     display: flex;
+      flex-direction: row;
+      margin-bottom: 10%;}
+
+
+     .contact2>a{ 
+        width: 60px;
+        margin-top: 15px;
+        margin-right: 150px;
+        margin-left: 50px; 
+        text-decoration: none;
+        color: white;
+        display: flex;
+        justify-content:flex-end;
+        box-sizing: border-box;
+        background-color: rgb(14, 139, 139);
+        border-radius: 8px;
+        padding-right: 5px;}
+
+      .about2>a{ 
+        width: 90px;
+    margin-top: 15px; 
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:space-around;
+     padding-right: 10px;}  
+     
+     .project2>a{ 
+        width: 90px;
+        margin-top: 15px; 
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:flex-start;}
+
+    .servies2>a{ 
+        width: 50px;
+        margin-top: 15px;  
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:flex-start;} 
+    
+    .logo2>a{
+    width: 100px;
+        margin-top: 15px;
+        margin-right: 10px; 
+        margin-left: 200px;
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:flex-start;}
+    
+.main2{
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    background-color: black;
+     display: flex;
+      flex-direction: row-reverse;
+      margin-bottom: 10%;}   
+
+
+
+
+
+    .logo>a{ 
+        width: 100px;
+        margin-top: 15px;
+        margin-right: 200px; 
+        margin-left: 10px;
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:flex-start;}
+
+    .servies>a{ 
+    width: 90px;
+    margin-top: 15px; 
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:flex-start;} 
+    
+    .project>a{ 
+        width: 90px;
+        margin-top: 15px; 
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:flex-start;}
+
+    .about>a{ 
+        width: 50px;
+        margin-top: 15px; 
+     text-decoration: none;
+     color: white;
+     display: flex;
+     flex-direction:row;
+    box-sizing: border-box;
+    justify-content:space-around;
+     padding-right: 10px;}
+
+    .contact>a{ 
+        width: 70px;
+        margin-top: 15px; 
+        margin-left: 150px;
+     text-decoration: none;
+    
+     color: white;
+     display: flex;
+     justify-content:flex-end;
+    box-sizing: border-box;
+     background-color: rgb(14, 139, 139);
+      border-radius: 8px;
+      padding-right: 5px;
+      }
